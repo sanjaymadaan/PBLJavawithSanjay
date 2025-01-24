@@ -1,9 +1,13 @@
 PUGATA		
 The program receives an array of names of players who are about to play the game of hide and seek. 
 But the players need a software to decide who will be having the turn to find the other players as 
-each one of them doubts the special abilities of other players to find out the side of the hand (inwards or outwards) they will show.
+each one of them doubts the special abilities of other players 
+to find out the side of the hand (inwards or outwards) they will show.
 
 The rules of PUGATA are:
-1. The majority of inwards or outwards hand will decide, which players have escaped the turn for now.
-2. If the hand count of inwards or outwards are same, then it shall continue.(I.e. not freeing any player in that pass)
-3. If only two players are left for the last pass, then the player whose name comes first in the dictionary will be the one having the turn.
+1. The majority of inwards or outwards hand will decide, 
+which players have escaped the turn for now.
+2. If the hand count of inwards or outwards are same, 
+then it shall continue.(I.e. not freeing any player in that pass)
+3. If only two players are left for the last pass, then the player whose name 
+comes first in the dictionary will be the one having the turn.
